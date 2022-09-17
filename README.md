@@ -17,6 +17,6 @@ How to run the website on local host:
  - node app.js
  - go to browser and type http://localhost:5000/
  
-![main page](image.jpg)
+![main page](public/images/image.jpg)
  
  
